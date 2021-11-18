@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @Alucard2169
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Javascript.
-- 📫 IF you have any helpfull advice i welcome you all with open arms
+Hi, I am Deepanshu (Alucard2169 😋) I am a college student majoring in Computer science engineering, I am currently learning Web Development. 
+Whenever i see some cool designs i trie to recreate them in my own way, I like interesting effects and animations to designs.
+I learned HTML, CSS, SCSS, by myself and currently learning Javascript.
 
-<!---
-Alucard2169/Alucard2169 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+If you have any tips or advice for me then i really appreciate it.
+
+Thank you.
