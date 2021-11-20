@@ -6,7 +6,7 @@ I learned HTML, CSS, SCSS, by myself and currently learning Javascript.
 
 If you have any tips or advice for me then i really appreciate it.
 
-##I often do coding and design challanges
+##I often do coding and design challenges
 
 >FrontEnd Mentor [Alucard](https://www.frontendmentor.io/profile/Alucard2169)
 
