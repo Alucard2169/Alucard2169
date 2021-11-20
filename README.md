@@ -9,8 +9,14 @@ If you have any tips or advice for me then i really appreciate it.
 ##I often do coding and design challanges
 
 >FrontEnd Mentor [Alucard](https://www.frontendmentor.io/profile/Alucard2169)
+
+
 >CSS battles [Alucard](https://cssbattle.dev/player/NpJ77jYmXnRX59cw7u9iXJlQfr83)
+
+
 >CODE PEN [Alucard](https://codepen.io/alucard2169)
+
+
 >freecodecamp [Alucard](https://www.freecodecamp.org/alucard2169)
 
 
