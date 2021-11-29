@@ -27,4 +27,6 @@ If you have any tips or advice for me then i really appreciate it.
   function greet(){
     return 'Thank you'
   }
+  
+  greet()
 ```
