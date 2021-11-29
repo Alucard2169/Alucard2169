@@ -28,5 +28,5 @@ If you have any tips or advice for me then i really appreciate it.
     return 'Thank you'
   }
   
-  greet()
+  greet();
 ```
