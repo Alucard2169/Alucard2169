@@ -1,4 +1,4 @@
-# Hi, I am Deepanshu (Alucard2169 😋)
+# Hi, I am Deepanshu (Alucard2169 **😋**)
 
 I am a college student majoring in __Computer science engineering__, I am currently learning Web Development. 
 Whenever i see some cool designs i try to recreate them in my own way, I like interesting effects and animations to designs.
