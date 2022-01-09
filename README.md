@@ -20,7 +20,11 @@ If you have any tips or advice for me then i really appreciate it.
 > ### freecodecamp [Alucard](https://www.freecodecamp.org/alucard2169)
 
 
+>### CodeWars [Alucard](https://www.codewars.com/users/Alucard2169)
+
+
 ## [LinkedIn](https://www.linkedin.com/in/deepanshu-aab1181a6/)
+
 
 
 ```Javascript
