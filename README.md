@@ -28,9 +28,7 @@ If you have any tips or advice for me then i really appreciate it.
 
 
 ```Javascript
-  function greet(){
-    return 'Thank you'
-  }
+  const greet = () => 'Thank you';
   
   greet();
 ```
