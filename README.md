@@ -1,7 +1,7 @@
 # Hi, I am Deepanshu (Alucard2169)
 
 I am a college student majoring in __Computer science engineering__, I am currently learning Web Development. 
-Whenever i see some cool designs i try to recreate them in my own way, I like interesting effects and animations to designs.
+Whenever i see some cool designs i try to recreate them in my own way, I like cool effects and animations.
 
 
 If you have any tips or advice for me then i really appreciate it.
