@@ -25,10 +25,3 @@ If you have any tips or advice for me then i really appreciate it.
 
 ## [LinkedIn](https://www.linkedin.com/in/deepanshu-aab1181a6/)
 
-
-
-```Javascript
-  const greet = () => 'Thank you';
-  
-  greet();
-```
